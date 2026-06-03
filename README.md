@@ -74,7 +74,7 @@ The SUMM2 disease resistance gene is highly conserved among different crops belo
 
 ## Repository Structure
 
-SUMM2-BLAST-Horticulture-Project/
+SUMM2-BLAST-Project/
 
 ├── README.md
 
