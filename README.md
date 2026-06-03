@@ -24,7 +24,7 @@ Plants possess disease resistance genes that help protect them against pathogens
 * Python
 * Pandas
 * Matplotlib
-* GitHub
+  
 
 ## Methodology
 
