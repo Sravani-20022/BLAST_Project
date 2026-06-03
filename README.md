@@ -66,7 +66,7 @@ The BLAST results were imported into Python using Pandas and visualized using Ma
 
 ## Discussion
 
-The BLAST analysis revealed significant sequence conservation of the SUMM2 disease resistance gene among members of the Solanaceae family. Tomato showed complete sequence identity as the reference sequence, while potato and chilli exhibited substantial similarity, indicating a common evolutionary origin and potentially similar disease resistance mechanisms.
+The BLAST analysis revealed significant sequence conservation of the SUMM2 disease resistance gene among members of the Solanaceae family. Tomato showed complete sequence identity as the reference sequence, while potato, chilli and others exhibited substantial similarity, indicating a common evolutionary origin and potentially similar disease resistance mechanisms.
 
 ## Conclusion
 
