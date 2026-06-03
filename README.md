@@ -70,7 +70,7 @@ The BLAST analysis revealed significant sequence conservation of the SUMM2 disea
 
 ## Conclusion
 
-The SUMM2 disease resistance gene is highly conserved among horticultural crops belonging to the Solanaceae family. BLAST sequence alignment and comparative analysis demonstrate the usefulness of bioinformatics tools in studying gene conservation and plant defense mechanisms.
+The SUMM2 disease resistance gene is highly conserved among different crops belonging to the Solanaceae family. BLAST sequence alignment and comparative analysis demonstrate the usefulness of bioinformatics tools in studying gene conservation and plant defense mechanisms.
 
 ## Repository Structure
 
